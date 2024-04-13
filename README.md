@@ -1,4 +1,4 @@
-# Fake-news-detection
+# Fake News Detection
 
 Fake News Detection in Python
 
